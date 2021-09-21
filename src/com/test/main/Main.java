@@ -15,6 +15,7 @@ public class Main {
             System.exit(0);
         }
         System.out.println("zmena");
+        System.out.println("654a645");
     }
 
 }
