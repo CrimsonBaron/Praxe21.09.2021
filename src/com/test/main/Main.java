@@ -11,10 +11,10 @@ public class Main {
         }else if (args[0].equals("s")){
             Samohlasky.Run();
         }else{
-            System.out.println("Bad arg");
+            System.out.println("Bad argggggggggggggggggggggggg");
             System.exit(0);
         }
-
+        System.out.println("zmena");
     }
 
 }
